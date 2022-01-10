@@ -11,7 +11,8 @@
 
 ## A simple pcb which will light up the ECE text.
 
-Software: KiCAD 6.0.0
+**Software: KiCAD 6.0.0**
+
 **Dimensions: 6.7cm×5cm**
 
 ## Components Required:
