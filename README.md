@@ -13,7 +13,7 @@
 
 **Software: KiCAD 6.0.0**
 
-**Dimensions: 6.7cm×5cm**
+**Badge Dimensions: 6.7cm×5cm**
 
 ## Components Required:
 * CR2032 battery holder SMD 20mm ([Example component](https://www.evelta.com/cr2032-battery-holder-cr2032-p28-24-1-smt/))- Qty:1
