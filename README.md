@@ -1,12 +1,13 @@
 # CIT-Kokrajhar-ECE-PCB-badge
 
-<img src="https://user-images.githubusercontent.com/92359223/148724898-7f88e5e4-347a-4a65-a41d-a3196dc5cd63.png" l>
+<img src="https://user-images.githubusercontent.com/92359223/148747878-23fce1f9-3c68-40ae-9bc2-a3f1223d4544.png" l>
 <table>
  <tr>
    <td><img src="https://user-images.githubusercontent.com/92359223/148724919-e7464f57-8a83-49d6-9bf9-26dce44e7cdf.png" /> 
    <td><img src="https://user-images.githubusercontent.com/92359223/148724924-b9b192d3-86c3-4ae9-9aef-90f36008cabb.png" />  
  </tr>
 </table>
+
 
 
 ## A simple pcb which will light up the ECE text.
