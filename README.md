@@ -46,4 +46,4 @@ Use any website to order the components like [Hnhcart](https://www.hnhcart.com/)
 Soldier the **LED's upside down**. The glowing side should be facing down since it'll shine throgh the transparent ECE text. Keep in mind the polarity of LED and follow the polarity as shown in silkscreen.
 
 * Soldier the brooch pin at the top rectangle copper over the battery holder and you're done!!
-* <img width="50%" align="left" src="https://user-images.githubusercontent.com/92359223/148730978-5d4781d1-8f2f-48cf-aec4-1535873c4214.png" />
+* <img width="40%" align="left" src="https://user-images.githubusercontent.com/92359223/148730978-5d4781d1-8f2f-48cf-aec4-1535873c4214.png" />
