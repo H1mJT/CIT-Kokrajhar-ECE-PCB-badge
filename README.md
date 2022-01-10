@@ -11,6 +11,9 @@
 
 ## A simple pcb which will light up the ECE text.
 
+Software: KiCAD 6.0.0
+**Dimensions: 6.7cm×5cm**
+
 ## Components Required:
 * CR2032 battery holder SMD 20mm ([Example component](https://www.evelta.com/cr2032-battery-holder-cr2032-p28-24-1-smt/))- Qty:1
 * SMD LED of any color with 0603 package ([Example Component](https://www.ktron.in/product/smd-blue-led-0603/))- Qty:13
@@ -31,6 +34,9 @@
 
 * Leave the rest as default.
 
+## Ordering Components
+
+Use any website to order the components like [Hnhcart](https://www.hnhcart.com/), [ktron](https://www.ktron.in/) etc
 ## Assembly
 
 * Soldiering the battery holder and switch is fairly simple.
