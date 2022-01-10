@@ -16,7 +16,7 @@
 
 **Badge Dimensions: 6.7cm×5cm**
 
-**Design based on [CIT Kokrajhar logo](https://upload.wikimedia.org/wikipedia/en/e/ed/Central_Institute_of_Technology%2C_Kokrajhar_Logo.png)
+**Design based on [CIT Kokrajhar logo](https://upload.wikimedia.org/wikipedia/en/e/ed/Central_Institute_of_Technology%2C_Kokrajhar_Logo.png)**
 
 ## Components Required:
 * CR2032 battery holder SMD 20mm ([Example component](https://www.evelta.com/cr2032-battery-holder-cr2032-p28-24-1-smt/))- Qty:1
