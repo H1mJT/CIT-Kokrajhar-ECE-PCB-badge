@@ -3,10 +3,11 @@
 <img src="https://user-images.githubusercontent.com/92359223/148747878-23fce1f9-3c68-40ae-9bc2-a3f1223d4544.png" l>
 <table>
  <tr>
-   <td><img src="https://user-images.githubusercontent.com/92359223/148748579-976d6f01-c4ba-44dc-bb66-951cf7f2a8f2.png" /> 
+   <td><img src="https://user-images.githubusercontent.com/92359223/148750326-731c0641-1839-4826-90f9-28bc035a8193.png" /> 
    <td><img src="https://user-images.githubusercontent.com/92359223/148748628-b3cb9f2e-8c84-43a4-87e8-6f6bd2c9ca48.png" />  
  </tr>
 </table>
+
 
 
 ## A simple pcb which will light up the ECE text.
@@ -14,6 +15,8 @@
 **Software: KiCAD 6.0.0**
 
 **Badge Dimensions: 6.7cm×5cm**
+
+**Design based on [CIT Kokrajhar logo](https://upload.wikimedia.org/wikipedia/en/e/ed/Central_Institute_of_Technology%2C_Kokrajhar_Logo.png)
 
 ## Components Required:
 * CR2032 battery holder SMD 20mm ([Example component](https://www.evelta.com/cr2032-battery-holder-cr2032-p28-24-1-smt/))- Qty:1
