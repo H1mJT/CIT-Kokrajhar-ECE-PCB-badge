@@ -1,4 +1,4 @@
-19802417965907503
+19804060213783939
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84475,6 +84475,13 @@ varistor SIOV
 0
 2
 2
+cit
+Badgelife-Shitty-2x2
+Through hole angled pin header, 2x02, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x02 2.54mm double row
+0
+4
+4
 cit
 ECE
 
