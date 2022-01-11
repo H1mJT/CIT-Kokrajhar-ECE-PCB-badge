@@ -1,10 +1,11 @@
 # CIT-Kokrajhar-ECE-PCB-badge
 
-<img src="https://user-images.githubusercontent.com/92359223/148747878-23fce1f9-3c68-40ae-9bc2-a3f1223d4544.png" l>
+
+<img src="https://user-images.githubusercontent.com/92359223/148976439-1faaaf41-f0f8-4bba-9997-aa5ff13d313f.png" />
 <table>
  <tr>
-   <td><img src="https://user-images.githubusercontent.com/92359223/148750326-731c0641-1839-4826-90f9-28bc035a8193.png" /> 
-   <td><img src="https://user-images.githubusercontent.com/92359223/148748628-b3cb9f2e-8c84-43a4-87e8-6f6bd2c9ca48.png" />  
+   <td><img src="https://user-images.githubusercontent.com/92359223/148976933-d56bf222-e402-468b-9b26-b5c786a936c5.png" /> 
+   <td><img src="https://user-images.githubusercontent.com/92359223/148977021-04ce9f69-5588-4690-a272-c40ea75885b5.png" />  
  </tr>
 </table>
 
