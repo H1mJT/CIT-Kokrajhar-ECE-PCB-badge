@@ -32,9 +32,11 @@
 
 * Goto [JLCPCB](https://jlcpcb.com/) and upload the [Gerber Zip file](https://github.com/H1mJT/CIT-Kokrajhar-ECE-PCB-badge/tree/main/Gerber).
 
-* PCB color: Select White
+* PCB color: White
 
-* Remove order number: Select Yes 
+* Silkscreen color: Black
+
+* Remove order number: Yes 
 (Or there'll be a random number either on front or back ruining the badge aesthetics)
 
 * Leave the rest as default.
