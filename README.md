@@ -22,7 +22,7 @@
 ## Components Required:
 * CR2032 battery holder SMD 20mm ([Example component](https://www.evelta.com/cr2032-battery-holder-cr2032-p28-24-1-smt/))- Qty:1
 * SMD LED of any color with 0603 package ([Example Component](https://www.ktron.in/product/smd-blue-led-0603/))- Qty:13
-* 3x6x2.5mm SMD Switch ([Example Component](https://www.ktron.in/product/3x6x2-5mm-tactile-switch-smd/))- Qty:1
+* 3x6x2.5mm SMD slide Switch - Qty:1
 * Brass Brooch Pin ([Example Component](https://www.beadsnfashion.com/product/brooch-pin-fittings-golden-0-75-inch))- Qty:1
 * CR2032 Battery ([Example Component](https://www.hnhcart.com/products/cr2032-3v-225mah-lithium-coin-cell-battery))
 
