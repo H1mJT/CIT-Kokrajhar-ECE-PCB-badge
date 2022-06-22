@@ -67,3 +67,21 @@ There's slot for shitty add ons, so make any pcb design to add on it.
 
 
 
+<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
+
+
+
+
+## Final Product
+
+<table>
+ <tr>
+   <td><img src="https://user-images.githubusercontent.com/92359223/175073718-77490845-7d08-4947-b374-746c5fd9a181.jpg" /> 
+   <td><img src="https://user-images.githubusercontent.com/92359223/175073734-1f85fce4-10ac-401b-a073-4ddc0bd37bc6.jpg" /> 
+ </tr>
+ <tr>
+   <td><img src="https://user-images.githubusercontent.com/92359223/175073750-0e902218-500c-42a6-a99c-968508788eb0.jpg" /> 
+   <td><img src="https://user-images.githubusercontent.com/92359223/175073772-24b70671-f3b0-4756-be86-f7e29ea806d0.jpg" /> 
+ </tr>
+</table>
